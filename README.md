@@ -15,22 +15,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
 
----
-
-# 📊 *GitHub Stats*
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=MRITYUNJAY-THAKUR\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=MRITYUNJAY-THAKUR\&theme=dark\&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MRITYUNJAY-THAKUR\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
-
-</div>
-
----
-
 ### 👀 *Profile Views*
 
 [![](https://visitcount.itsvg.in/api?id=MRITYUNJAY-THAKUR\&icon=0\&color=0)](https://visitcount.itsvg.in)
