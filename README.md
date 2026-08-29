@@ -1,18 +1,36 @@
-# MRITYUNJAY THAKUR
-# 💫 *About Me*
+<h1 align="center" style="color:#1a1a1a;">Hi, I’m <span style="color:#0066cc;">Mritynujay Thakur</span></h1>
+<h3 align="center">Aspiring Developer · Technology Enthusiast · Continuous Learner</h3>
+<p align="center">
+  <img src="https://github.com/MRITYUNJAY-THAKUR.png" width="150" style="border-radius: 50%;" />
+</p>
 
-* 🔭 I’m currently working on *Python projects & Web Development*
-* 👯 I’m looking to collaborate on *Open-source contributions and creative coding projects*
-* 🤝 I’m looking for help with *advanced Python concepts & real-world project building*
-* 🌱 I’m currently learning *Backend Development, APIs, and Data Structures*
-* 💬 Ask me about *Python, CSS, Git/GitHub, or beginner-friendly development tips*
-* ⚡ Fun fact: *Bugs don’t scare me—syntax errors do.*
+
+<!--
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=600&color=0066cc&center=true&vCenter=true&width=600&lines=Beginner+Web+Developer;Learning+and+Building+Every+Day;Exploring+Python%2C+JavaScript%2C+and+Web+Development" />
+</p>
+-->
 
 ---
 
-# 💻 *Tech Stack*
+## About Me
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+```yaml
+Name: Mrityunjay Thakur
+Role: Web and Software Development Enthusiast
+Focus: Building fundamentals and meaningful projects
+Languages: C, Python, HTML, CSS, JavaScript
+Tools: VSCode, Git, GitHub, Figma, AutoCAD
+Interests: Web Development, Problem Solving
+Goal: Grow through consistent practice and collaboration
+````
+
+</div>
+
+---
+
+## Skills and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,js,html,css,git,github,vscode,bootstrap,mysql,linux,figma&theme=light" />
+</p>
